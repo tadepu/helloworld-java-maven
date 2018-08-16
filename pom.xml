@@ -4,7 +4,7 @@
   <groupId>com.saikiran</groupId>
   <artifactId>git-commit-id-plugin</artifactId>
   <packaging>jar</packaging>
-  <version>SNAPSHOT-1.2.${v}</version>
+  <version>SNAPSHOT-1.2</version>
   <name>my-maven</name>
   <url>http://maven.apache.org</url>
 	
