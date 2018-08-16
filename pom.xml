@@ -4,7 +4,7 @@
   <groupId>com.saikiran</groupId>
   <artifactId>ramcoxddddddddddddddd</artifactId>
   <packaging>jar</packaging>
-  <version>5.0.0</version>
+  <version>SNAPSHOT-1.2.${v}</version>
   <name>my-maven</name>
   <url>http://maven.apache.org</url>
 	
