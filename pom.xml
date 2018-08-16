@@ -2,7 +2,7 @@
   xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.saikiran</groupId>
-  <artifactId>ramcoxddddddddddddddd</artifactId>
+  <artifactId>git-commit-id-plugin</artifactId>
   <packaging>jar</packaging>
   <version>SNAPSHOT-1.2.${v}</version>
   <name>my-maven</name>
