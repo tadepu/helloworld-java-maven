@@ -1,7 +1,7 @@
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
   xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
   <modelVersion>4.0.0</modelVersion>
-  <groupId>com.scmgalaxy.mavensample</groupId>
+  <groupId>com.saikiran</groupId>
   <artifactId>ramcoxddddddddddddddd</artifactId>
   <packaging>jar</packaging>
   <version>5.0.0</version>
@@ -42,12 +42,12 @@
     <repository>
         <id>00321bca3728</id>
         <name>00321bca3728-releases</name>
-        <url>http://13.232.139.216:8081/nexus/content/repositories/ramco/</url>
+        <url>http://18.206.157.245:8081/nexus/content/repositories/sai/</url>
     </repository>
     <snapshotRepository>
         <id>00321bca3728</id>
         <name>00321bca3728-snapshots</name>
-        <url>http://13.126.184.229:8085/artifactory/verizon</url>
+        <url>http://18.206.157.245:8081/nexus/content/repositories/saisnap/</url>
     </snapshotRepository>
 </distributionManagement>
 
