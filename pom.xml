@@ -42,12 +42,12 @@
     <repository>
         <id>deployment</id>
         <name>00321bca3728-releases</name>
-        <url>http://18.206.157.245:8081/nexus/content/repositories/sai/</url>
+        <url>http://18.206.157.245:8081/nexus/content/repositories/sai</url>
     </repository>
     <snapshotRepository>
         <id>deployment</id>
         <name>00321bca3728-snapshots</name>
-        <url>http://18.206.157.245:8081/nexus/content/repositories/saisnap/</url>
+        <url>http://18.206.157.245:8081/nexus/content/repositories/saisnap</url>
     </snapshotRepository>
 </distributionManagement>
 
