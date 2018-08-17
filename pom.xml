@@ -4,7 +4,7 @@
   <groupId>com.saikiran</groupId>
   <artifactId>${GIT_COMMIT}</artifactId>
   <packaging>jar</packaging>
-  <version>VERSION-${GIT_TAG_NAME}</version>
+  <version>VERSION-${%GIT_TAG_NAME%}</version>
   <name>my-maven</name>
   <url>http://maven.apache.org</url>
 	
