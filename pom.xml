@@ -50,9 +50,4 @@
         <url>http://18.206.157.245:8081/nexus/content/repositories/saisnap</url>
     </snapshotRepository>
 </distributionManagement>
-
-
-
-
-
 </project>
